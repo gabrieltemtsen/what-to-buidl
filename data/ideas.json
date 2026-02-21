@@ -13998,5 +13998,2005 @@
     "difficulty": "beginner",
     "time_estimate": "3-5 days",
     "track": "consumer"
+  },
+  {
+    "id": 1401,
+    "title": "Agentic Proof-of-Impact Tracker",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1402,
+    "title": "Privacy-first Problem Discovery Agent",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1403,
+    "title": "Composable Problem Discovery Agent",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1404,
+    "title": "Serverless Grant Application Writer",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1405,
+    "title": "Autonomous Demo Builder Agent",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1406,
+    "title": "Privacy-first Launch Checklist Agent",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1407,
+    "title": "Composable Launch Checklist Agent",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1408,
+    "title": "Composable Hack Sprint Coach",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1409,
+    "title": "Collaborative Demo Builder Agent",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1410,
+    "title": "Realtime Problem Discovery Agent",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1411,
+    "title": "Privacy-first Problem Discovery Agent",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1412,
+    "title": "Collaborative Hackathon Scout",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1413,
+    "title": "Edge Demo Builder Agent",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1414,
+    "title": "Realtime Builder Matchmaker",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1415,
+    "title": "Agentic Builder Matchmaker",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1416,
+    "title": "Multimodal Proof-of-Impact Tracker",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1417,
+    "title": "Autonomous API Mashup Composer",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1418,
+    "title": "Privacy-first Pitch Deck Copilot",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1419,
+    "title": "AI-native Demo Builder Agent",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1420,
+    "title": "Multimodal Spec-to-MVP Generator",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1421,
+    "title": "Onchain Pitch Deck Copilot",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1422,
+    "title": "Multimodal Team Formation Optimizer",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1423,
+    "title": "Composable Onchain Bounty Hunter",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1424,
+    "title": "Realtime Demo Narrator",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1425,
+    "title": "Edge Demo Narrator",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1426,
+    "title": "Collaborative Builder Matchmaker",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1427,
+    "title": "Onchain Problem Discovery Agent",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1428,
+    "title": "Collaborative Proof-of-Impact Tracker",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1429,
+    "title": "Composable Realtime Judging Assistant",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1430,
+    "title": "Autonomous Problem Discovery Agent",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1431,
+    "title": "Composable Builder Matchmaker",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1432,
+    "title": "Edge Launch Checklist Agent",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1433,
+    "title": "Serverless Hackathon Scout",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1434,
+    "title": "Autonomous Demo Builder Agent",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1435,
+    "title": "Collaborative API Mashup Composer",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1436,
+    "title": "Privacy-first Demo Builder Agent",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1437,
+    "title": "Composable Grant Application Writer",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1438,
+    "title": "Composable Problem Discovery Agent",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1439,
+    "title": "Local-first Onchain Bounty Hunter",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1440,
+    "title": "Local-first Demo Narrator",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1441,
+    "title": "Composable Proof-of-Impact Tracker",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1442,
+    "title": "Privacy-first Launch Checklist Agent",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1443,
+    "title": "Composable Builder Matchmaker",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1444,
+    "title": "AI-native Team Formation Optimizer",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1445,
+    "title": "Onchain Pitch Deck Copilot",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1446,
+    "title": "Privacy-first Demo Builder Agent",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1447,
+    "title": "Onchain Demo Builder Agent",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1448,
+    "title": "AI-native Demo Narrator",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1449,
+    "title": "AI-native Proof-of-Impact Tracker",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1450,
+    "title": "Autonomous Demo Builder Agent",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1451,
+    "title": "Realtime Launch Checklist Agent",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1452,
+    "title": "Onchain Realtime Judging Assistant",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1453,
+    "title": "Multimodal Problem Discovery Agent",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1454,
+    "title": "Privacy-first Team Formation Optimizer",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1455,
+    "title": "Multimodal Problem Discovery Agent",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1456,
+    "title": "Onchain Hack Sprint Coach",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1457,
+    "title": "Privacy-first Pitch Deck Copilot",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1458,
+    "title": "Edge Onchain Bounty Hunter",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1459,
+    "title": "Serverless Hackathon Scout",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1460,
+    "title": "Privacy-first Demo Builder Agent",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1461,
+    "title": "Edge Pitch Deck Copilot",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1462,
+    "title": "AI-native Builder Matchmaker",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1463,
+    "title": "Autonomous Builder Matchmaker",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1464,
+    "title": "Privacy-first Demo Builder Agent",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1465,
+    "title": "Autonomous Builder Matchmaker",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1466,
+    "title": "Onchain Hack Sprint Coach",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1467,
+    "title": "Local-first Problem Discovery Agent",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1468,
+    "title": "Composable Pitch Deck Copilot",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1469,
+    "title": "Composable Hackathon Scout",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1470,
+    "title": "Collaborative Builder Matchmaker",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1471,
+    "title": "Collaborative Hackathon Scout",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1472,
+    "title": "Edge Spec-to-MVP Generator",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1473,
+    "title": "Serverless Realtime Judging Assistant",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1474,
+    "title": "Collaborative Hack Sprint Coach",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1475,
+    "title": "Privacy-first Hackathon Scout",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1476,
+    "title": "Realtime Onchain Bounty Hunter",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1477,
+    "title": "Collaborative Demo Builder Agent",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1478,
+    "title": "Autonomous Proof-of-Impact Tracker",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1479,
+    "title": "Local-first Team Formation Optimizer",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1480,
+    "title": "Serverless Onchain Bounty Hunter",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1481,
+    "title": "Realtime Grant Application Writer",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1482,
+    "title": "Privacy-first Builder Matchmaker",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1483,
+    "title": "Realtime Grant Application Writer",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1484,
+    "title": "Privacy-first Proof-of-Impact Tracker",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1485,
+    "title": "Local-first Team Formation Optimizer",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1486,
+    "title": "Local-first Team Formation Optimizer",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1487,
+    "title": "Privacy-first Pitch Deck Copilot",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1488,
+    "title": "Autonomous Demo Narrator",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1489,
+    "title": "Privacy-first API Mashup Composer",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1490,
+    "title": "Composable Team Formation Optimizer",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1491,
+    "title": "Composable Onchain Bounty Hunter",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1492,
+    "title": "Collaborative Spec-to-MVP Generator",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1493,
+    "title": "Onchain Builder Matchmaker",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1494,
+    "title": "Edge Proof-of-Impact Tracker",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1495,
+    "title": "Multimodal Pitch Deck Copilot",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1496,
+    "title": "Serverless Onchain Bounty Hunter",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1497,
+    "title": "Collaborative Team Formation Optimizer",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1498,
+    "title": "Serverless Problem Discovery Agent",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1499,
+    "title": "Serverless Onchain Bounty Hunter",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1500,
+    "title": "Autonomous Pitch Deck Copilot",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1501,
+    "title": "Edge Onchain Bounty Hunter",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1502,
+    "title": "Collaborative Hack Sprint Coach",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1503,
+    "title": "Autonomous Demo Builder Agent",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1504,
+    "title": "Realtime Spec-to-MVP Generator",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1505,
+    "title": "Multimodal Spec-to-MVP Generator",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1506,
+    "title": "Collaborative Demo Narrator",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1507,
+    "title": "Privacy-first Problem Discovery Agent",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1508,
+    "title": "Collaborative Demo Narrator",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1509,
+    "title": "Collaborative API Mashup Composer",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1510,
+    "title": "Composable Launch Checklist Agent",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1511,
+    "title": "Realtime Demo Narrator",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1512,
+    "title": "Collaborative Builder Matchmaker",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1513,
+    "title": "Autonomous API Mashup Composer",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1514,
+    "title": "Composable Hackathon Scout",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1515,
+    "title": "Edge Launch Checklist Agent",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1516,
+    "title": "Collaborative Hack Sprint Coach",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1517,
+    "title": "Composable Grant Application Writer",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1518,
+    "title": "Autonomous API Mashup Composer",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1519,
+    "title": "Multimodal Demo Narrator",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1520,
+    "title": "Autonomous Team Formation Optimizer",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1521,
+    "title": "Collaborative API Mashup Composer",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1522,
+    "title": "Agentic Demo Narrator",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1523,
+    "title": "Collaborative Team Formation Optimizer",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1524,
+    "title": "Onchain Demo Builder Agent",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1525,
+    "title": "Onchain Launch Checklist Agent",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1526,
+    "title": "AI-native Launch Checklist Agent",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1527,
+    "title": "Privacy-first Team Formation Optimizer",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1528,
+    "title": "Collaborative Grant Application Writer",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1529,
+    "title": "Edge Hack Sprint Coach",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1530,
+    "title": "Onchain Team Formation Optimizer",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1531,
+    "title": "Serverless Grant Application Writer",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1532,
+    "title": "Multimodal Builder Matchmaker",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1533,
+    "title": "Local-first Hack Sprint Coach",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1534,
+    "title": "Onchain Realtime Judging Assistant",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1535,
+    "title": "Local-first Realtime Judging Assistant",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1536,
+    "title": "Collaborative Spec-to-MVP Generator",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1537,
+    "title": "Collaborative Realtime Judging Assistant",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1538,
+    "title": "Autonomous Demo Builder Agent",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1539,
+    "title": "Onchain Team Formation Optimizer",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1540,
+    "title": "Edge Grant Application Writer",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1541,
+    "title": "Edge Spec-to-MVP Generator",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1542,
+    "title": "Edge Demo Narrator",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1543,
+    "title": "Realtime Spec-to-MVP Generator",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1544,
+    "title": "Multimodal Spec-to-MVP Generator",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1545,
+    "title": "Multimodal Sponsor Activation Bot",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1546,
+    "title": "Composable Team Formation Optimizer",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1547,
+    "title": "Onchain Hackathon Scout",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1548,
+    "title": "Autonomous Spec-to-MVP Generator",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1549,
+    "title": "Composable Team Formation Optimizer",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1550,
+    "title": "Collaborative Builder Matchmaker",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1551,
+    "title": "AI-native Launch Checklist Agent",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1552,
+    "title": "Edge Proof-of-Impact Tracker",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1553,
+    "title": "Edge API Mashup Composer",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1554,
+    "title": "Realtime Sponsor Activation Bot",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1555,
+    "title": "Realtime Sponsor Activation Bot",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1556,
+    "title": "Serverless API Mashup Composer",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1557,
+    "title": "AI-native Sponsor Activation Bot",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1558,
+    "title": "AI-native Problem Discovery Agent",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1559,
+    "title": "Agentic Sponsor Activation Bot",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1560,
+    "title": "AI-native Spec-to-MVP Generator",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1561,
+    "title": "Multimodal Proof-of-Impact Tracker",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1562,
+    "title": "Privacy-first Proof-of-Impact Tracker",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1563,
+    "title": "AI-native Team Formation Optimizer",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1564,
+    "title": "AI-native Launch Checklist Agent",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1565,
+    "title": "AI-native Hack Sprint Coach",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1566,
+    "title": "Serverless API Mashup Composer",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1567,
+    "title": "Autonomous Pitch Deck Copilot",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1568,
+    "title": "Local-first Realtime Judging Assistant",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1569,
+    "title": "Onchain Realtime Judging Assistant",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1570,
+    "title": "Local-first Builder Matchmaker",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1571,
+    "title": "Realtime Pitch Deck Copilot",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1572,
+    "title": "AI-native Demo Builder Agent",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1573,
+    "title": "Multimodal Grant Application Writer",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1574,
+    "title": "Local-first Hack Sprint Coach",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1575,
+    "title": "Onchain Problem Discovery Agent",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1576,
+    "title": "Local-first Launch Checklist Agent",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1577,
+    "title": "Composable Pitch Deck Copilot",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1578,
+    "title": "Multimodal API Mashup Composer",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1579,
+    "title": "Agentic Realtime Judging Assistant",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1580,
+    "title": "Onchain Hack Sprint Coach",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1581,
+    "title": "Agentic Pitch Deck Copilot",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1582,
+    "title": "AI-native Problem Discovery Agent",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1583,
+    "title": "Autonomous Team Formation Optimizer",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1584,
+    "title": "Collaborative Sponsor Activation Bot",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1585,
+    "title": "Collaborative Demo Narrator",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1586,
+    "title": "Edge Demo Builder Agent",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1587,
+    "title": "Realtime Problem Discovery Agent",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1588,
+    "title": "AI-native Hackathon Scout",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1589,
+    "title": "Collaborative Builder Matchmaker",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1590,
+    "title": "Serverless Sponsor Activation Bot",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Agent tooling now enables meaningful prototypes in days.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1591,
+    "title": "Multimodal API Mashup Composer",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1592,
+    "title": "Onchain Builder Matchmaker",
+    "description": "A project that automates project scoping and demo prep under time pressure.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1593,
+    "title": "Local-first Team Formation Optimizer",
+    "description": "A project that helps hackathon teams move from idea to demo in hours.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1594,
+    "title": "Local-first API Mashup Composer",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Telegram + Node.js + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1595,
+    "title": "Agentic Pitch Deck Copilot",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1596,
+    "title": "Privacy-first Sponsor Activation Bot",
+    "description": "A project that turns raw APIs into polished prototypes fast.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "ElizaOS + Celo + Farcaster",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1597,
+    "title": "Composable Hack Sprint Coach",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Hackathons are becoming AI-native and speed matters more than ever.",
+    "suggested_stack": "Next.js + Convex + OpenAI",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1598,
+    "title": "Autonomous Launch Checklist Agent",
+    "description": "A project that helps solo builders ship high-quality demos quickly.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "Cloudflare Workers + D1",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1599,
+    "title": "Edge Hackathon Scout",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Teams need practical tools to execute fast with quality.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1600,
+    "title": "Realtime Spec-to-MVP Generator",
+    "description": "A project that improves team execution and judging outcomes.",
+    "why_now": "Judges reward clear impact and polished delivery.",
+    "suggested_stack": "React + FastAPI + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
   }
 ]
