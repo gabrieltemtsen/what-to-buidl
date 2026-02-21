@@ -1,28 +1,45 @@
 # what-to-buidl
 
-An inspiration explorer for technical projects people can build in the AI/onchain era.
+A Next.js + Convex project explorer for technical ideas builders can discover and rate.
 
-## What’s inside
+## Features
 
-- `data/ideas.json` → 1,200 project ideas
-- `index.html` → lightweight explorer UI with search + filters
-- `scripts/generate_ideas.py` → regenerates idea dataset
+- Browse 1,200+ project ideas
+- Search + filters (track, difficulty)
+- Rating system (1–5 stars) backed by Convex
+- Ready for hackathon/vibe-coding inspiration
 
-## Run locally
+## Stack
 
-Open `index.html` in a static server.
+- Next.js (App Router)
+- React
+- Convex (database + mutations/queries)
 
-Example:
+## Setup
 
 ```bash
-python3 -m http.server 8080
-# then visit http://localhost:8080
+npm install
+cp .env.example .env.local
+# set NEXT_PUBLIC_CONVEX_URL from Convex dashboard
 ```
 
-## Goal
+## Run
 
-Help builders discover practical project ideas for:
-- vibe coding
-- hackathons
-- startup MVPs
-- open-source experiments
+```bash
+npm run dev
+```
+
+Open http://localhost:3000
+
+## Convex setup
+
+```bash
+npx convex dev
+```
+
+This will generate Convex types under `convex/_generated` and sync schema/functions.
+
+## Existing data
+
+- `data/ideas.json` contains the core dataset.
+- `ideas/` contains long-form markdown specs.
