@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { allIdeas } from '@/lib/ideas';
 
 type RatingState = { avg: number; count: number };
@@ -10,6 +10,7 @@ export default function HomePage() {
   const [track, setTrack] = useState('');
   const [difficulty, setDifficulty] = useState('');
   const [ratings, setRatings] = useState<Record<number, RatingState>>({});
+  const [theme, setTheme] = useState<'dark' | 'light'>('dark');
 
   const tracks = useMemo(() => Array.from(new Set(allIdeas.map((i) => i.track))), []);
   const levels = useMemo(() => Array.from(new Set(allIdeas.map((i) => i.difficulty))), []);
@@ -24,6 +25,17 @@ export default function HomePage() {
       return (!q || hay.includes(q)) && (!track || i.track === track) && (!difficulty || i.difficulty === difficulty);
     });
   }, [query, track, difficulty]);
+
+  const featuredAgentic = useMemo(
+    () => allIdeas.filter((i) => i.track === 'ai-agent' || i.track === 'hackathon').slice(0, 6),
+    []
+  );
+
+  useEffect(() => {
+    const saved = (localStorage.getItem('wtb_theme') as 'dark' | 'light' | null) || 'dark';
+    setTheme(saved);
+    document.documentElement.setAttribute('data-theme', saved);
+  }, []);
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
   const paged = useMemo(() => {
@@ -50,15 +62,48 @@ export default function HomePage() {
     await refreshRating(ideaId);
   }
 
-  return (
-    <main className="container">
-      <section className="hero">
-        <h1 className="title">🚀 What to Buidl Explorer</h1>
-        <p className="subtitle">A curated discovery engine for technical project ideas in the AI/onchain era.</p>
-      </section>
+  function toggleTheme() {
+    const next = theme === 'dark' ? 'light' : 'dark';
+    setTheme(next);
+    localStorage.setItem('wtb_theme', next);
+    document.documentElement.setAttribute('data-theme', next);
+  }
 
-      <section className="panel">
-        <p className="muted" style={{ marginTop: 0 }}>{filtered.length} / {allIdeas.length} ideas • page {page}/{totalPages} • with Convex ratings</p>
+  const pageNumbers = Array.from({ length: Math.min(7, totalPages) }, (_, i) => {
+    const start = Math.max(1, Math.min(page - 3, totalPages - 6));
+    return start + i;
+  });
+
+  return (
+    <>
+      <nav className="nav">
+        <div className="nav-inner">
+          <strong>What to Buidl</strong>
+          <div className="row" style={{ marginBottom: 0 }}>
+            <a className="link" href="#ideas">Explorer</a>
+            <a className="link" href="https://github.com/gabrieltemtsen/what-to-buidl" target="_blank" rel="noreferrer">GitHub</a>
+            <button onClick={toggleTheme}>{theme === 'dark' ? '☀️ Light' : '🌙 Dark'}</button>
+          </div>
+        </div>
+      </nav>
+
+      <main className="container">
+        <section className="hero">
+          <h1 className="title">🚀 What to Buidl Explorer</h1>
+          <p className="subtitle">A curated discovery engine for technical project ideas in the AI/onchain era.</p>
+        </section>
+
+        <section className="panel" style={{ marginBottom: 14 }}>
+          <h3 style={{ marginTop: 0 }}>🔥 Agentic Hackathon Ideas</h3>
+          <div className="row" style={{ marginBottom: 0 }}>
+            {featuredAgentic.map((idea) => (
+              <span key={idea.id} className="badge">{idea.title}</span>
+            ))}
+          </div>
+        </section>
+
+        <section id="ideas" className="panel">
+          <p className="muted" style={{ marginTop: 0 }}>{filtered.length} / {allIdeas.length} ideas • page {page}/{totalPages} • with Convex ratings</p>
 
         <div className="row">
           <input
@@ -89,6 +134,13 @@ export default function HomePage() {
           <span className="muted">Showing {(page - 1) * pageSize + 1}-{Math.min(page * pageSize, filtered.length)} of {filtered.length}</span>
           <button disabled={page >= totalPages} onClick={() => setPage((p) => Math.min(totalPages, p + 1))}>Next →</button>
         </div>
+        <div className="row" style={{ justifyContent: 'center' }}>
+          {pageNumbers.map((n) => (
+            <button key={n} onClick={() => setPage(n)} style={{ opacity: n === page ? 1 : 0.75 }}>
+              {n}
+            </button>
+          ))}
+        </div>
       </section>
 
       {paged.map((idea) => {
@@ -114,10 +166,11 @@ export default function HomePage() {
         );
       })}
 
-      <footer className="footer">
-        Built by <a className="link" href="https://github.com/gabrieltemtsen" target="_blank" rel="noreferrer">gabedev.eth</a> ·
-        {' '}<a className="link" href="https://github.com/gabrieltemtsen/what-to-buidl" target="_blank" rel="noreferrer">GitHub Repo</a>
-      </footer>
-    </main>
+        <footer className="footer">
+          Built by <a className="link" href="https://github.com/gabrieltemtsen" target="_blank" rel="noreferrer">gabedev.eth</a> ·
+          {' '}<a className="link" href="https://github.com/gabrieltemtsen/what-to-buidl" target="_blank" rel="noreferrer">GitHub Repo</a>
+        </footer>
+      </main>
+    </>
   );
 }
