@@ -11998,5 +11998,2005 @@
     "difficulty": "intermediate",
     "time_estimate": "1 weekend",
     "track": "onchain"
+  },
+  {
+    "id": 1201,
+    "title": "No-code Video Repurposer",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for hackathon demos.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1202,
+    "title": "No-code Synthetic User Tester",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for weekend builds.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "onchain"
+  },
+  {
+    "id": 1203,
+    "title": "No-code Remittance Router",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for hackathon demos.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1204,
+    "title": "Realtime RFP Writer",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for MVP experiments.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "consumer"
+  },
+  {
+    "id": 1205,
+    "title": "Privacy-first Podcast Clipper",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for weekend builds.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "beginner",
+    "time_estimate": "2-4 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1206,
+    "title": "Edge Spec-to-App Generator",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for hackathon demos.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1207,
+    "title": "Onchain Bug Bounty Co-pilot",
+    "description": "A project that automates repetitive ops work for lean teams. Great for MVP experiments.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "startup"
+  },
+  {
+    "id": 1208,
+    "title": "Serverless Feature Prioritizer",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for MVP experiments.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "open-source"
+  },
+  {
+    "id": 1209,
+    "title": "Autonomous A/B Test Analyst",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for MVP experiments.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "onchain"
+  },
+  {
+    "id": 1210,
+    "title": "Social Code Review Arena",
+    "description": "A project that automates repetitive ops work for lean teams. Great for hackathon demos.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "startup"
+  },
+  {
+    "id": 1211,
+    "title": "Serverless Changelog Narrator",
+    "description": "A project that automates repetitive ops work for lean teams. Great for MVP experiments.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1212,
+    "title": "AI-native Personal Finance Coach",
+    "description": "A project that turns messy docs into actionable build plans. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1213,
+    "title": "Autonomous Meme Tracker",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for MVP experiments.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "intermediate",
+    "time_estimate": "2-4 weeks",
+    "track": "consumer"
+  },
+  {
+    "id": 1214,
+    "title": "Edge API Contract Verifier",
+    "description": "A project that turns messy docs into actionable build plans. Great for hackathon demos.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1215,
+    "title": "AI-native Contract Audit Assistant",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for portfolio projects.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "consumer"
+  },
+  {
+    "id": 1216,
+    "title": "Serverless SaaS Onboarding Agent",
+    "description": "A project that turns messy docs into actionable build plans. Great for MVP experiments.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1217,
+    "title": "Social API Contract Verifier",
+    "description": "A project that automates repetitive ops work for lean teams. Great for portfolio projects.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1218,
+    "title": "No-code Remittance Router",
+    "description": "A project that keeps communities informed with proactive summaries. Great for MVP experiments.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "onchain"
+  },
+  {
+    "id": 1219,
+    "title": "Agentic Cross-border Payroll Bot",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "consumer"
+  },
+  {
+    "id": 1220,
+    "title": "AI-native Career Coach",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for MVP experiments.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1221,
+    "title": "Serverless Remittance Router",
+    "description": "A project that automates repetitive ops work for lean teams. Great for MVP experiments.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1222,
+    "title": "Serverless Community Pulse Monitor",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1223,
+    "title": "Open-source Contract Audit Assistant",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "intermediate",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1224,
+    "title": "Composable Customer Support Deflector",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for hackathon demos.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "consumer"
+  },
+  {
+    "id": 1225,
+    "title": "Collaborative Podcast Clipper",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1226,
+    "title": "Social Incident Triage Bot",
+    "description": "A project that lets solo builders punch above their weight. Great for hackathon demos.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "beginner",
+    "time_estimate": "2-4 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1227,
+    "title": "Onchain Meme Tracker",
+    "description": "A project that lets solo builders punch above their weight. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1228,
+    "title": "Multimodal Career Coach",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for hackathon demos.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "beginner",
+    "time_estimate": "2-4 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1229,
+    "title": "Autonomous Meme Tracker",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "consumer"
+  },
+  {
+    "id": 1230,
+    "title": "AI-native Event Ops Assistant",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for weekend builds.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1231,
+    "title": "Realtime Infra Cost Optimizer",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "startup"
+  },
+  {
+    "id": 1232,
+    "title": "Local-first Prompt Playground",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for weekend builds.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1233,
+    "title": "Edge Travel Planner",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "2-4 weeks",
+    "track": "open-source"
+  },
+  {
+    "id": 1234,
+    "title": "Serverless Changelog Narrator",
+    "description": "A project that turns messy docs into actionable build plans. Great for hackathon demos.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "open-source"
+  },
+  {
+    "id": 1235,
+    "title": "No-code Remittance Router",
+    "description": "A project that turns messy docs into actionable build plans. Great for hackathon demos.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "startup"
+  },
+  {
+    "id": 1236,
+    "title": "Zero-knowledge Podcast Clipper",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for portfolio projects.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1237,
+    "title": "Collaborative Spec-to-App Generator",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for portfolio projects.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "2-4 weeks",
+    "track": "consumer"
+  },
+  {
+    "id": 1238,
+    "title": "Realtime Research Briefing Bot",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1239,
+    "title": "No-code Onchain Reputation Passport",
+    "description": "A project that keeps communities informed with proactive summaries. Great for hackathon demos.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "2-4 weeks",
+    "track": "consumer"
+  },
+  {
+    "id": 1240,
+    "title": "AI-native Changelog Narrator",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for MVP experiments.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1241,
+    "title": "Onchain Interview Simulator",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for weekend builds.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1242,
+    "title": "Composable Changelog Narrator",
+    "description": "A project that keeps communities informed with proactive summaries. Great for MVP experiments.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "consumer"
+  },
+  {
+    "id": 1243,
+    "title": "Zero-knowledge Mentor Matchmaker",
+    "description": "A project that automates repetitive ops work for lean teams. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "beginner",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1244,
+    "title": "Edge Data Labeling Factory",
+    "description": "A project that automates repetitive ops work for lean teams. Great for hackathon demos.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "consumer"
+  },
+  {
+    "id": 1245,
+    "title": "Privacy-first Event Ops Assistant",
+    "description": "A project that automates repetitive ops work for lean teams. Great for hackathon demos.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1246,
+    "title": "Realtime DeFi Strategy Simulator",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for hackathon demos.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "open-source"
+  },
+  {
+    "id": 1247,
+    "title": "Composable DAO Governance Copilot",
+    "description": "A project that keeps communities informed with proactive summaries. Great for portfolio projects.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1248,
+    "title": "Open-source Code Review Arena",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for hackathon demos.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1249,
+    "title": "Agentic Incident Triage Bot",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "onchain"
+  },
+  {
+    "id": 1250,
+    "title": "No-code Prompt Playground",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "onchain"
+  },
+  {
+    "id": 1251,
+    "title": "AI-native Prompt Playground",
+    "description": "A project that keeps communities informed with proactive summaries. Great for weekend builds.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "consumer"
+  },
+  {
+    "id": 1252,
+    "title": "AI-native API Contract Verifier",
+    "description": "A project that automates repetitive ops work for lean teams. Great for weekend builds.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "open-source"
+  },
+  {
+    "id": 1253,
+    "title": "Multimodal Feature Prioritizer",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for weekend builds.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "beginner",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1254,
+    "title": "Edge Proposal Builder",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for MVP experiments.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1255,
+    "title": "Composable Synthetic User Tester",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for weekend builds.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1256,
+    "title": "Composable Contract Audit Assistant",
+    "description": "A project that keeps communities informed with proactive summaries. Great for hackathon demos.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1257,
+    "title": "Composable Mentor Matchmaker",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for weekend builds.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "intermediate",
+    "time_estimate": "2-4 weeks",
+    "track": "consumer"
+  },
+  {
+    "id": 1258,
+    "title": "Multimodal Data Labeling Factory",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1259,
+    "title": "Zero-knowledge Medical Intake Assistant",
+    "description": "A project that lets solo builders punch above their weight. Great for portfolio projects.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "startup"
+  },
+  {
+    "id": 1260,
+    "title": "Open-source Community Pulse Monitor",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for weekend builds.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "open-source"
+  },
+  {
+    "id": 1261,
+    "title": "Onchain Grant Scout",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1262,
+    "title": "Open-source Startup Idea Validator",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for hackathon demos.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1263,
+    "title": "Composable Synthetic User Tester",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1264,
+    "title": "Realtime Personal Finance Coach",
+    "description": "A project that lets solo builders punch above their weight. Great for MVP experiments.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "open-source"
+  },
+  {
+    "id": 1265,
+    "title": "Serverless SaaS Onboarding Agent",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "open-source"
+  },
+  {
+    "id": 1266,
+    "title": "Multimodal Data Labeling Factory",
+    "description": "A project that automates repetitive ops work for lean teams. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "open-source"
+  },
+  {
+    "id": 1267,
+    "title": "Open-source Travel Planner",
+    "description": "A project that automates repetitive ops work for lean teams. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1268,
+    "title": "Open-source Learning Path Builder",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for MVP experiments.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "hackathon"
+  },
+  {
+    "id": 1269,
+    "title": "AI-native Contract Audit Assistant",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for weekend builds.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1270,
+    "title": "Privacy-first Learning Path Builder",
+    "description": "A project that keeps communities informed with proactive summaries. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "consumer"
+  },
+  {
+    "id": 1271,
+    "title": "Multimodal Data Labeling Factory",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for MVP experiments.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "open-source"
+  },
+  {
+    "id": 1272,
+    "title": "Edge Spec-to-App Generator",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1273,
+    "title": "Collaborative PRD Generator",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1274,
+    "title": "Local-first Interview Simulator",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1275,
+    "title": "Multimodal Gig Worker Assistant",
+    "description": "A project that turns messy docs into actionable build plans. Great for portfolio projects.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "startup"
+  },
+  {
+    "id": 1276,
+    "title": "Autonomous Changelog Narrator",
+    "description": "A project that turns messy docs into actionable build plans. Great for MVP experiments.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1277,
+    "title": "No-code Personal Finance Coach",
+    "description": "A project that turns messy docs into actionable build plans. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1278,
+    "title": "Agentic Podcast Clipper",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1279,
+    "title": "Open-source Spec-to-App Generator",
+    "description": "A project that automates repetitive ops work for lean teams. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1280,
+    "title": "AI-native Career Coach",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "intermediate",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1281,
+    "title": "Edge Bug Bounty Co-pilot",
+    "description": "A project that lets solo builders punch above their weight. Great for hackathon demos.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "open-source"
+  },
+  {
+    "id": 1282,
+    "title": "Autonomous Spec-to-App Generator",
+    "description": "A project that lets solo builders punch above their weight. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1283,
+    "title": "Realtime Grant Scout",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for weekend builds.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1284,
+    "title": "Agentic Trend Radar",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for hackathon demos.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "b2b"
+  },
+  {
+    "id": 1285,
+    "title": "Serverless PRD Generator",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "open-source"
+  },
+  {
+    "id": 1286,
+    "title": "No-code Podcast Clipper",
+    "description": "A project that lets solo builders punch above their weight. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1287,
+    "title": "Multimodal Incident Triage Bot",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for hackathon demos.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1288,
+    "title": "Realtime Video Repurposer",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for portfolio projects.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1289,
+    "title": "Composable Wallet Risk Monitor",
+    "description": "A project that automates repetitive ops work for lean teams. Great for weekend builds.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1290,
+    "title": "Multimodal Voice Tutor",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for MVP experiments.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1291,
+    "title": "Local-first Infra Cost Optimizer",
+    "description": "A project that lets solo builders punch above their weight. Great for MVP experiments.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1292,
+    "title": "Multimodal Incident Triage Bot",
+    "description": "A project that automates repetitive ops work for lean teams. Great for weekend builds.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "b2b"
+  },
+  {
+    "id": 1293,
+    "title": "Privacy-first Data Labeling Factory",
+    "description": "A project that turns messy docs into actionable build plans. Great for MVP experiments.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1294,
+    "title": "Privacy-first Legal Clause Analyzer",
+    "description": "A project that turns messy docs into actionable build plans. Great for weekend builds.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "open-source"
+  },
+  {
+    "id": 1295,
+    "title": "Open-source Wallet Risk Monitor",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for weekend builds.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1296,
+    "title": "Social Video Repurposer",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for portfolio projects.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "startup"
+  },
+  {
+    "id": 1297,
+    "title": "Open-source PRD Generator",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for portfolio projects.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "b2b"
+  },
+  {
+    "id": 1298,
+    "title": "Edge Gig Worker Assistant",
+    "description": "A project that automates repetitive ops work for lean teams. Great for MVP experiments.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "beginner",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1299,
+    "title": "Serverless API Contract Verifier",
+    "description": "A project that lets solo builders punch above their weight. Great for MVP experiments.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "beginner",
+    "time_estimate": "2-4 weeks",
+    "track": "open-source"
+  },
+  {
+    "id": 1300,
+    "title": "Onchain Creator Monetization Engine",
+    "description": "A project that lets solo builders punch above their weight. Great for weekend builds.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "open-source"
+  },
+  {
+    "id": 1301,
+    "title": "Local-first Travel Planner",
+    "description": "A project that turns messy docs into actionable build plans. Great for MVP experiments.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "startup"
+  },
+  {
+    "id": 1302,
+    "title": "AI-native Habit Accountability Bot",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1303,
+    "title": "Privacy-first Wallet Risk Monitor",
+    "description": "A project that keeps communities informed with proactive summaries. Great for hackathon demos.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "b2b"
+  },
+  {
+    "id": 1304,
+    "title": "Composable RFP Writer",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for portfolio projects.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1305,
+    "title": "Zero-knowledge Startup Idea Validator",
+    "description": "A project that automates repetitive ops work for lean teams. Great for weekend builds.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1306,
+    "title": "Collaborative Legal Clause Analyzer",
+    "description": "A project that lets solo builders punch above their weight. Great for portfolio projects.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1307,
+    "title": "Social Bug Bounty Co-pilot",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "beginner",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1308,
+    "title": "Agentic Changelog Narrator",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for portfolio projects.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1309,
+    "title": "Composable Video Repurposer",
+    "description": "A project that automates repetitive ops work for lean teams. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "b2b"
+  },
+  {
+    "id": 1310,
+    "title": "Realtime Travel Planner",
+    "description": "A project that turns messy docs into actionable build plans. Great for hackathon demos.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "open-source"
+  },
+  {
+    "id": 1311,
+    "title": "AI-native Code Review Arena",
+    "description": "A project that automates repetitive ops work for lean teams. Great for portfolio projects.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "onchain"
+  },
+  {
+    "id": 1312,
+    "title": "Multimodal Community Pulse Monitor",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for portfolio projects.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1313,
+    "title": "Local-first Research Briefing Bot",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for portfolio projects.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1314,
+    "title": "Edge Cloud Security Auditor",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1315,
+    "title": "Open-source Hackathon Team Finder",
+    "description": "A project that keeps communities informed with proactive summaries. Great for weekend builds.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "onchain"
+  },
+  {
+    "id": 1316,
+    "title": "Social Video Repurposer",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for hackathon demos.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "intermediate",
+    "time_estimate": "2-4 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1317,
+    "title": "Open-source Community Pulse Monitor",
+    "description": "A project that lets solo builders punch above their weight. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "onchain"
+  },
+  {
+    "id": 1318,
+    "title": "Zero-knowledge Travel Planner",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for weekend builds.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1319,
+    "title": "Open-source Grant Scout",
+    "description": "A project that turns messy docs into actionable build plans. Great for weekend builds.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1320,
+    "title": "Realtime Mentor Matchmaker",
+    "description": "A project that turns messy docs into actionable build plans. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "b2b"
+  },
+  {
+    "id": 1321,
+    "title": "No-code PRD Generator",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for MVP experiments.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "beginner",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1322,
+    "title": "Realtime Creator Monetization Engine",
+    "description": "A project that automates repetitive ops work for lean teams. Great for portfolio projects.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "open-source"
+  },
+  {
+    "id": 1323,
+    "title": "Autonomous Data Labeling Factory",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1324,
+    "title": "Open-source Medical Intake Assistant",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for weekend builds.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "startup"
+  },
+  {
+    "id": 1325,
+    "title": "Privacy-first Spec-to-App Generator",
+    "description": "A project that automates repetitive ops work for lean teams. Great for MVP experiments.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "open-source"
+  },
+  {
+    "id": 1326,
+    "title": "Privacy-first Synthetic User Tester",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for weekend builds.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1327,
+    "title": "Zero-knowledge Spec-to-App Generator",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for MVP experiments.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "startup"
+  },
+  {
+    "id": 1328,
+    "title": "Realtime Crypto Tax Assistant",
+    "description": "A project that turns messy docs into actionable build plans. Great for hackathon demos.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "beginner",
+    "time_estimate": "2-4 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1329,
+    "title": "Agentic DevRel Campaign Planner",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "open-source"
+  },
+  {
+    "id": 1330,
+    "title": "Composable Podcast Clipper",
+    "description": "A project that automates repetitive ops work for lean teams. Great for hackathon demos.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1331,
+    "title": "Multimodal Podcast Clipper",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "b2b"
+  },
+  {
+    "id": 1332,
+    "title": "Local-first RFP Writer",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for portfolio projects.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1333,
+    "title": "Zero-knowledge Onchain Reputation Passport",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for portfolio projects.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1334,
+    "title": "Local-first Video Repurposer",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1335,
+    "title": "Social Startup Idea Validator",
+    "description": "A project that keeps communities informed with proactive summaries. Great for MVP experiments.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "intermediate",
+    "time_estimate": "2-4 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1336,
+    "title": "Realtime Customer Support Deflector",
+    "description": "A project that keeps communities informed with proactive summaries. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1337,
+    "title": "Onchain Travel Planner",
+    "description": "A project that automates repetitive ops work for lean teams. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "b2b"
+  },
+  {
+    "id": 1338,
+    "title": "Autonomous Contract Audit Assistant",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for MVP experiments.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "startup"
+  },
+  {
+    "id": 1339,
+    "title": "Privacy-first Cloud Security Auditor",
+    "description": "A project that turns messy docs into actionable build plans. Great for weekend builds.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1340,
+    "title": "Privacy-first Incident Triage Bot",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for portfolio projects.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1341,
+    "title": "Local-first Wallet Risk Monitor",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for weekend builds.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1342,
+    "title": "Privacy-first Infra Cost Optimizer",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for MVP experiments.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "open-source"
+  },
+  {
+    "id": 1343,
+    "title": "Local-first Career Coach",
+    "description": "A project that lets solo builders punch above their weight. Great for MVP experiments.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1344,
+    "title": "Realtime Feature Prioritizer",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for weekend builds.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "b2b"
+  },
+  {
+    "id": 1345,
+    "title": "Open-source API Contract Verifier",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for hackathon demos.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1346,
+    "title": "Agentic Community Pulse Monitor",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for weekend builds.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1347,
+    "title": "Local-first Crypto Tax Assistant",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for portfolio projects.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "b2b"
+  },
+  {
+    "id": 1348,
+    "title": "Autonomous Mental Wellness Journal",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for MVP experiments.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1349,
+    "title": "Privacy-first Onchain Reputation Passport",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for weekend builds.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "intermediate",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1350,
+    "title": "No-code Travel Planner",
+    "description": "A project that automates repetitive ops work for lean teams. Great for weekend builds.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "onchain"
+  },
+  {
+    "id": 1351,
+    "title": "Serverless Customer Support Deflector",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for weekend builds.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "consumer"
+  },
+  {
+    "id": 1352,
+    "title": "Multimodal Research Briefing Bot",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for portfolio projects.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1353,
+    "title": "Privacy-first PRD Generator",
+    "description": "A project that turns messy docs into actionable build plans. Great for MVP experiments.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "beginner",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1354,
+    "title": "Onchain RFP Writer",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for weekend builds.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1355,
+    "title": "Local-first Voice Tutor",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1356,
+    "title": "Composable Onchain Reputation Passport",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for MVP experiments.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1357,
+    "title": "Social A/B Test Analyst",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1358,
+    "title": "Local-first Interview Simulator",
+    "description": "A project that transforms raw APIs into conversational workflows. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "intermediate",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1359,
+    "title": "AI-native Habit Accountability Bot",
+    "description": "A project that turns messy docs into actionable build plans. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1360,
+    "title": "Edge Voice Tutor",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for portfolio projects.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "open-source"
+  },
+  {
+    "id": 1361,
+    "title": "Autonomous DevRel Campaign Planner",
+    "description": "A project that turns messy docs into actionable build plans. Great for weekend builds.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1362,
+    "title": "Zero-knowledge Wallet Risk Monitor",
+    "description": "A project that automates repetitive ops work for lean teams. Great for hackathon demos.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "consumer"
+  },
+  {
+    "id": 1363,
+    "title": "Realtime Trend Radar",
+    "description": "A project that keeps communities informed with proactive summaries. Great for MVP experiments.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1364,
+    "title": "Onchain PRD Generator",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for hackathon demos.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1365,
+    "title": "Privacy-first Cloud Security Auditor",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for MVP experiments.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1366,
+    "title": "Zero-knowledge Hackathon Team Finder",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1367,
+    "title": "Serverless Compliance Checklist Agent",
+    "description": "A project that turns messy docs into actionable build plans. Great for hackathon demos.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "open-source"
+  },
+  {
+    "id": 1368,
+    "title": "Collaborative Wallet Risk Monitor",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for hackathon demos.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1369,
+    "title": "Multimodal Bug Bounty Co-pilot",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for MVP experiments.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "consumer"
+  },
+  {
+    "id": 1370,
+    "title": "AI-native Medical Intake Assistant",
+    "description": "A project that keeps communities informed with proactive summaries. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1371,
+    "title": "Realtime Mentor Matchmaker",
+    "description": "A project that keeps communities informed with proactive summaries. Great for weekend builds.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "open-source"
+  },
+  {
+    "id": 1372,
+    "title": "Edge SaaS Onboarding Agent",
+    "description": "A project that keeps communities informed with proactive summaries. Great for MVP experiments.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "b2b"
+  },
+  {
+    "id": 1373,
+    "title": "Serverless Video Repurposer",
+    "description": "A project that lets solo builders punch above their weight. Great for portfolio projects.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "b2b"
+  },
+  {
+    "id": 1374,
+    "title": "Local-first Podcast Clipper",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for MVP experiments.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "advanced",
+    "time_estimate": "1-2 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1375,
+    "title": "Serverless Creator Monetization Engine",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1376,
+    "title": "Serverless Interview Simulator",
+    "description": "A project that keeps communities informed with proactive summaries. Great for hackathon demos.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "consumer"
+  },
+  {
+    "id": 1377,
+    "title": "Onchain Customer Support Deflector",
+    "description": "A project that keeps communities informed with proactive summaries. Great for MVP experiments.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "2-4 weeks",
+    "track": "open-source"
+  },
+  {
+    "id": 1378,
+    "title": "Autonomous Startup Idea Validator",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for portfolio projects.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "open-source"
+  },
+  {
+    "id": 1379,
+    "title": "Composable Gig Worker Assistant",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for MVP experiments.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "beginner",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1380,
+    "title": "Privacy-first Infra Cost Optimizer",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for weekend builds.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Base + viem + wagmi",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "onchain"
+  },
+  {
+    "id": 1381,
+    "title": "Local-first DevRel Campaign Planner",
+    "description": "A project that automates repetitive ops work for lean teams. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "hackathon"
+  },
+  {
+    "id": 1382,
+    "title": "Privacy-first Synthetic User Tester",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for portfolio projects.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Node.js + Redis + Temporal",
+    "difficulty": "intermediate",
+    "time_estimate": "1-2 weeks",
+    "track": "consumer"
+  },
+  {
+    "id": 1383,
+    "title": "Composable API Contract Verifier",
+    "description": "A project that turns messy docs into actionable build plans. Great for MVP experiments.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "b2b"
+  },
+  {
+    "id": 1384,
+    "title": "Onchain Creator Monetization Engine",
+    "description": "A project that automates repetitive ops work for lean teams. Great for hackathon demos.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "consumer"
+  },
+  {
+    "id": 1385,
+    "title": "Collaborative RFP Writer",
+    "description": "A project that lets solo builders punch above their weight. Great for MVP experiments.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "open-source"
+  },
+  {
+    "id": 1386,
+    "title": "Social Personal Finance Coach",
+    "description": "A project that turns messy docs into actionable build plans. Great for weekend builds.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "b2b"
+  },
+  {
+    "id": 1387,
+    "title": "No-code Hackathon Team Finder",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for portfolio projects.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1388,
+    "title": "Open-source Video Repurposer",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for portfolio projects.",
+    "why_now": "Cross-platform workflows are exploding in demand.",
+    "suggested_stack": "Next.js + Postgres + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "b2b"
+  },
+  {
+    "id": 1389,
+    "title": "Onchain Interview Simulator",
+    "description": "A project that lets solo builders punch above their weight. Great for hackathon demos.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1390,
+    "title": "Autonomous Mentor Matchmaker",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for MVP experiments.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Telegram + TypeScript + Supabase",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "onchain"
+  },
+  {
+    "id": 1391,
+    "title": "Privacy-first Gig Worker Assistant",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for portfolio projects.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "beginner",
+    "time_estimate": "1-2 weeks",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1392,
+    "title": "Autonomous Meme Tracker",
+    "description": "A project that automates repetitive ops work for lean teams. Great for portfolio projects.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Solana + Anchor + Next.js",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "b2b"
+  },
+  {
+    "id": 1393,
+    "title": "Onchain Hackathon Team Finder",
+    "description": "A project that helps teams ship faster with fewer meetings. Great for MVP experiments.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "b2b"
+  },
+  {
+    "id": 1394,
+    "title": "No-code Community Pulse Monitor",
+    "description": "A project that creates high-signal insights from noisy social feeds. Great for portfolio projects.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "React Native + Firebase + Whisper",
+    "difficulty": "intermediate",
+    "time_estimate": "3-5 days",
+    "track": "consumer"
+  },
+  {
+    "id": 1395,
+    "title": "Autonomous Code Review Arena",
+    "description": "A project that keeps communities informed with proactive summaries. Great for weekend builds.",
+    "why_now": "Communities need practical AI tools, not demos.",
+    "suggested_stack": "Rust + Tauri + SQLite",
+    "difficulty": "advanced",
+    "time_estimate": "1 weekend",
+    "track": "vibe-coding"
+  },
+  {
+    "id": 1396,
+    "title": "Local-first Podcast Clipper",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for portfolio projects.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "ElizaOS + Farcaster + Celo",
+    "difficulty": "beginner",
+    "time_estimate": "1 weekend",
+    "track": "startup"
+  },
+  {
+    "id": 1397,
+    "title": "No-code Legal Clause Analyzer",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for hackathon demos.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "intermediate",
+    "time_estimate": "1 weekend",
+    "track": "startup"
+  },
+  {
+    "id": 1398,
+    "title": "Local-first Career Coach",
+    "description": "A project that bridges onchain data with human-friendly UX. Great for portfolio projects.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Cloudflare Workers + D1 + KV",
+    "difficulty": "advanced",
+    "time_estimate": "3-5 days",
+    "track": "consumer"
+  },
+  {
+    "id": 1399,
+    "title": "No-code Video Repurposer",
+    "description": "A project that reduces decision fatigue using explainable AI. Great for weekend builds.",
+    "why_now": "APIs are mature and builders want faster iteration.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "intermediate",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1400,
+    "title": "AI-native Creator Monetization Engine",
+    "description": "A project that improves hackathon productivity from idea to demo. Great for weekend builds.",
+    "why_now": "LLMs + cheap infra made this feasible.",
+    "suggested_stack": "Python FastAPI + LangGraph + pgvector",
+    "difficulty": "beginner",
+    "time_estimate": "3-5 days",
+    "track": "consumer"
   }
 ]
