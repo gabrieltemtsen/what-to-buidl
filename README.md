@@ -31,14 +31,21 @@ npm run dev
 
 Open http://localhost:3000
 
+## Build / Deploy
+
+```bash
+npm run build
+```
+
+`build` now runs `convex codegen` before `next build` so Convex generated types are available in CI/Vercel.
+
 ## Convex setup
 
 ```bash
 npx convex dev
 ```
 
-This will generate Convex types under `convex/_generated` and sync schema/functions.
-
+This generates Convex types under `convex/_generated` and syncs schema/functions.
 ## Existing data
 
 - `data/ideas.json` contains the core dataset.
