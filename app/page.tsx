@@ -52,38 +52,44 @@ export default function HomePage() {
 
   return (
     <main className="container">
-      <h1>🚀 What to Buidl — Next.js Explorer</h1>
-      <p className="muted">{filtered.length} / {allIdeas.length} ideas • page {page}/{totalPages} • with Convex ratings</p>
+      <section className="hero">
+        <h1 className="title">🚀 What to Buidl Explorer</h1>
+        <p className="subtitle">A curated discovery engine for technical project ideas in the AI/onchain era.</p>
+      </section>
 
-      <div className="row">
-        <input
-          placeholder="Search projects..."
-          value={query}
-          onChange={(e) => {
-            setQuery(e.target.value);
-            setPage(1);
-          }}
-          style={{ minWidth: 320, flex: 1 }}
-        />
-        <select value={track} onChange={(e) => { setTrack(e.target.value); setPage(1); }}>
-          <option value="">All tracks</option>
-          {tracks.map((t) => (
-            <option key={t} value={t}>{t}</option>
-          ))}
-        </select>
-        <select value={difficulty} onChange={(e) => { setDifficulty(e.target.value); setPage(1); }}>
-          <option value="">All levels</option>
-          {levels.map((l) => (
-            <option key={l} value={l}>{l}</option>
-          ))}
-        </select>
-      </div>
+      <section className="panel">
+        <p className="muted" style={{ marginTop: 0 }}>{filtered.length} / {allIdeas.length} ideas • page {page}/{totalPages} • with Convex ratings</p>
 
-      <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center' }}>
-        <button disabled={page <= 1} onClick={() => setPage((p) => Math.max(1, p - 1))}>← Prev</button>
-        <span className="muted">Showing {(page - 1) * pageSize + 1}-{Math.min(page * pageSize, filtered.length)} of {filtered.length}</span>
-        <button disabled={page >= totalPages} onClick={() => setPage((p) => Math.min(totalPages, p + 1))}>Next →</button>
-      </div>
+        <div className="row">
+          <input
+            placeholder="Search projects by title, stack, track..."
+            value={query}
+            onChange={(e) => {
+              setQuery(e.target.value);
+              setPage(1);
+            }}
+            style={{ minWidth: 320, flex: 1 }}
+          />
+          <select value={track} onChange={(e) => { setTrack(e.target.value); setPage(1); }}>
+            <option value="">All tracks</option>
+            {tracks.map((t) => (
+              <option key={t} value={t}>{t}</option>
+            ))}
+          </select>
+          <select value={difficulty} onChange={(e) => { setDifficulty(e.target.value); setPage(1); }}>
+            <option value="">All levels</option>
+            {levels.map((l) => (
+              <option key={l} value={l}>{l}</option>
+            ))}
+          </select>
+        </div>
+
+        <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center', marginBottom: 2 }}>
+          <button disabled={page <= 1} onClick={() => setPage((p) => Math.max(1, p - 1))}>← Prev</button>
+          <span className="muted">Showing {(page - 1) * pageSize + 1}-{Math.min(page * pageSize, filtered.length)} of {filtered.length}</span>
+          <button disabled={page >= totalPages} onClick={() => setPage((p) => Math.min(totalPages, p + 1))}>Next →</button>
+        </div>
+      </section>
 
       {paged.map((idea) => {
         const r = ratings[idea.id];
@@ -107,6 +113,11 @@ export default function HomePage() {
           </div>
         );
       })}
+
+      <footer className="footer">
+        Built by <a className="link" href="https://github.com/gabrieltemtsen" target="_blank" rel="noreferrer">gabedev.eth</a> ·
+        {' '}<a className="link" href="https://github.com/gabrieltemtsen/what-to-buidl" target="_blank" rel="noreferrer">GitHub Repo</a>
+      </footer>
     </main>
   );
 }
