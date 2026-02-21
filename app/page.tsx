@@ -14,6 +14,9 @@ export default function HomePage() {
   const tracks = useMemo(() => Array.from(new Set(allIdeas.map((i) => i.track))), []);
   const levels = useMemo(() => Array.from(new Set(allIdeas.map((i) => i.difficulty))), []);
 
+  const [page, setPage] = useState(1);
+  const pageSize = 50;
+
   const filtered = useMemo(() => {
     const q = query.toLowerCase();
     return allIdeas.filter((i) => {
@@ -21,6 +24,12 @@ export default function HomePage() {
       return (!q || hay.includes(q)) && (!track || i.track === track) && (!difficulty || i.difficulty === difficulty);
     });
   }, [query, track, difficulty]);
+
+  const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
+  const paged = useMemo(() => {
+    const start = (page - 1) * pageSize;
+    return filtered.slice(start, start + pageSize);
+  }, [filtered, page]);
 
   async function refreshRating(ideaId: number) {
     const res = await fetch(`/api/ratings?ideaId=${ideaId}`);
@@ -44,22 +53,25 @@ export default function HomePage() {
   return (
     <main className="container">
       <h1>🚀 What to Buidl — Next.js Explorer</h1>
-      <p className="muted">{filtered.length} / {allIdeas.length} ideas • with Convex ratings</p>
+      <p className="muted">{filtered.length} / {allIdeas.length} ideas • page {page}/{totalPages} • with Convex ratings</p>
 
       <div className="row">
         <input
           placeholder="Search projects..."
           value={query}
-          onChange={(e) => setQuery(e.target.value)}
+          onChange={(e) => {
+            setQuery(e.target.value);
+            setPage(1);
+          }}
           style={{ minWidth: 320, flex: 1 }}
         />
-        <select value={track} onChange={(e) => setTrack(e.target.value)}>
+        <select value={track} onChange={(e) => { setTrack(e.target.value); setPage(1); }}>
           <option value="">All tracks</option>
           {tracks.map((t) => (
             <option key={t} value={t}>{t}</option>
           ))}
         </select>
-        <select value={difficulty} onChange={(e) => setDifficulty(e.target.value)}>
+        <select value={difficulty} onChange={(e) => { setDifficulty(e.target.value); setPage(1); }}>
           <option value="">All levels</option>
           {levels.map((l) => (
             <option key={l} value={l}>{l}</option>
@@ -67,7 +79,13 @@ export default function HomePage() {
         </select>
       </div>
 
-      {filtered.slice(0, 150).map((idea) => {
+      <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center' }}>
+        <button disabled={page <= 1} onClick={() => setPage((p) => Math.max(1, p - 1))}>← Prev</button>
+        <span className="muted">Showing {(page - 1) * pageSize + 1}-{Math.min(page * pageSize, filtered.length)} of {filtered.length}</span>
+        <button disabled={page >= totalPages} onClick={() => setPage((p) => Math.min(totalPages, p + 1))}>Next →</button>
+      </div>
+
+      {paged.map((idea) => {
         const r = ratings[idea.id];
         return (
           <div className="card" key={idea.id}>
