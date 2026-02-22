@@ -15998,5 +15998,2005 @@
     "difficulty": "beginner",
     "time_estimate": "3-5 days",
     "track": "ai-agent"
+  },
+  {
+    "id": 1601,
+    "title": "Realtime Adaptive Prompt Compiler",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1602,
+    "title": "Self-Optimizing Autonomous Deal Desk",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1603,
+    "title": "Agentic Autonomous Deal Desk",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1604,
+    "title": "Realtime Coordination Game Engine",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1605,
+    "title": "Adversarially-Robust Inference Cost Arbitrage Engine",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1606,
+    "title": "Cryptoeconomic Autonomous Treasury Pilot",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1607,
+    "title": "Agentic Protocol Simulator",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1608,
+    "title": "Cryptoeconomic Security Chaos Platform",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1609,
+    "title": "Realtime Protocol Simulator",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1610,
+    "title": "Federated Protocol Simulator",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1611,
+    "title": "Autonomous Semantic Cache Optimizer",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1612,
+    "title": "Trust-Minimized Trust Graph Navigator",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1613,
+    "title": "Self-Optimizing Inference Cost Arbitrage Engine",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1614,
+    "title": "Differentiable Privacy-Preserving Analytics Hub",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1615,
+    "title": "Trust-Minimized MEV Defense Orchestrator",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1616,
+    "title": "Adversarially-Robust Protocol Simulator",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1617,
+    "title": "Adversarially-Robust Cross-Chain Failure Predictor",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1618,
+    "title": "Trust-Minimized Data Provenance Firewall",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1619,
+    "title": "Differentiable Synthetic User Swarm",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1620,
+    "title": "Hypergraph Autonomous Treasury Pilot",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1621,
+    "title": "Agentic Autonomous Treasury Pilot",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1622,
+    "title": "Cognitive Autonomous Deal Desk",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1623,
+    "title": "Cryptoeconomic Data Provenance Firewall",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1624,
+    "title": "Meta Coordination Game Engine",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1625,
+    "title": "Hypergraph Protocol Simulator",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1626,
+    "title": "Neural Autonomous Treasury Pilot",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1627,
+    "title": "Neural RAG Benchmark Forge",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1628,
+    "title": "Hypergraph Trust Graph Navigator",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1629,
+    "title": "Autonomous Model Jailbreak Stress Lab",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1630,
+    "title": "Neural Privacy-Preserving Analytics Hub",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1631,
+    "title": "Realtime Adaptive Prompt Compiler",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1632,
+    "title": "Meta Data Provenance Firewall",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1633,
+    "title": "Hypergraph Synthetic User Swarm",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1634,
+    "title": "Federated Trust Graph Navigator",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1635,
+    "title": "Cognitive Autonomous Deal Desk",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1636,
+    "title": "Multimodal MEV Defense Orchestrator",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1637,
+    "title": "Neural Cross-Chain Failure Predictor",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1638,
+    "title": "Differentiable Trust Graph Navigator",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1639,
+    "title": "Autonomous Model Jailbreak Stress Lab",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1640,
+    "title": "Edge-Native Privacy-Preserving Analytics Hub",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1641,
+    "title": "Differentiable Latent Incident Commander",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1642,
+    "title": "Cryptoeconomic Privacy-Preserving Analytics Hub",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1643,
+    "title": "Trust-Minimized Privacy-Preserving Analytics Hub",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1644,
+    "title": "Multimodal Data Provenance Firewall",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1645,
+    "title": "Agentic Protocol Simulator",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1646,
+    "title": "Adversarially-Robust Trust Graph Navigator",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1647,
+    "title": "Zero-Knowledge Privacy-Preserving Analytics Hub",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1648,
+    "title": "Cognitive Latent Incident Commander",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1649,
+    "title": "Adversarially-Robust Coordination Game Engine",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1650,
+    "title": "Differentiable Privacy-Preserving Analytics Hub",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1651,
+    "title": "Differentiable Security Chaos Platform",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1652,
+    "title": "Autonomous Adaptive Prompt Compiler",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1653,
+    "title": "Multimodal Autonomous Deal Desk",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1654,
+    "title": "Trust-Minimized Adaptive Prompt Compiler",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1655,
+    "title": "Trust-Minimized RAG Benchmark Forge",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1656,
+    "title": "Hypergraph Adaptive Prompt Compiler",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1657,
+    "title": "Meta Data Provenance Firewall",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1658,
+    "title": "Federated RAG Benchmark Forge",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1659,
+    "title": "Agentic MEV Defense Orchestrator",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1660,
+    "title": "Agentic Latent Incident Commander",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1661,
+    "title": "Multimodal Data Provenance Firewall",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1662,
+    "title": "Cryptoeconomic MEV Defense Orchestrator",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1663,
+    "title": "Differentiable Data Provenance Firewall",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1664,
+    "title": "Multimodal Agent Reputation Market",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1665,
+    "title": "Multimodal Autonomous Treasury Pilot",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1666,
+    "title": "Cryptoeconomic Semantic Cache Optimizer",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1667,
+    "title": "Federated MEV Defense Orchestrator",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1668,
+    "title": "Cryptoeconomic Cross-Chain Failure Predictor",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1669,
+    "title": "Differentiable Adaptive Prompt Compiler",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1670,
+    "title": "Trust-Minimized Coordination Game Engine",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1671,
+    "title": "Multimodal Coordination Game Engine",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1672,
+    "title": "Differentiable Trust Graph Navigator",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1673,
+    "title": "Self-Optimizing Coordination Game Engine",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1674,
+    "title": "Edge-Native Inference Cost Arbitrage Engine",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1675,
+    "title": "Autonomous Agent Reputation Market",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1676,
+    "title": "Trust-Minimized Trust Graph Navigator",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1677,
+    "title": "Hypergraph Latent Incident Commander",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1678,
+    "title": "Meta Coordination Game Engine",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1679,
+    "title": "Cognitive Synthetic User Swarm",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1680,
+    "title": "Trust-Minimized Autonomous Treasury Pilot",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1681,
+    "title": "Agentic Data Provenance Firewall",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1682,
+    "title": "Self-Optimizing RAG Benchmark Forge",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1683,
+    "title": "Trust-Minimized Protocol Simulator",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1684,
+    "title": "Multimodal Trust Graph Navigator",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1685,
+    "title": "Trust-Minimized Onchain Governance Strategist",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1686,
+    "title": "Edge-Native Coordination Game Engine",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1687,
+    "title": "Neural Data Provenance Firewall",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1688,
+    "title": "Zero-Knowledge Latent Incident Commander",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1689,
+    "title": "Zero-Knowledge Security Chaos Platform",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1690,
+    "title": "Adversarially-Robust Cross-Chain Failure Predictor",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1691,
+    "title": "Trust-Minimized Autonomous Audit Mesh",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1692,
+    "title": "Cognitive Autonomous Deal Desk",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1693,
+    "title": "Agentic Model Jailbreak Stress Lab",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1694,
+    "title": "Agentic Cross-Chain Failure Predictor",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1695,
+    "title": "Self-Optimizing Security Chaos Platform",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1696,
+    "title": "Adversarially-Robust Latent Incident Commander",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1697,
+    "title": "Meta Adaptive Prompt Compiler",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1698,
+    "title": "Neural Coordination Game Engine",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1699,
+    "title": "Agentic Coordination Game Engine",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1700,
+    "title": "Differentiable Model Jailbreak Stress Lab",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1701,
+    "title": "Realtime Inference Cost Arbitrage Engine",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1702,
+    "title": "Trust-Minimized Protocol Simulator",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1703,
+    "title": "Cognitive Agent Reputation Market",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1704,
+    "title": "Differentiable Onchain Governance Strategist",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1705,
+    "title": "Neural Trust Graph Navigator",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1706,
+    "title": "Cognitive Adaptive Prompt Compiler",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1707,
+    "title": "Realtime Cross-Chain Failure Predictor",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1708,
+    "title": "Self-Optimizing MEV Defense Orchestrator",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1709,
+    "title": "Hypergraph Onchain Governance Strategist",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1710,
+    "title": "Hypergraph MEV Defense Orchestrator",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1711,
+    "title": "Trust-Minimized Coordination Game Engine",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1712,
+    "title": "Multimodal Adaptive Prompt Compiler",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1713,
+    "title": "Autonomous Cross-Chain Failure Predictor",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1714,
+    "title": "Autonomous Cross-Chain Failure Predictor",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1715,
+    "title": "Meta Data Provenance Firewall",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1716,
+    "title": "Zero-Knowledge Autonomous Deal Desk",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1717,
+    "title": "Self-Optimizing Synthetic User Swarm",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1718,
+    "title": "Trust-Minimized Synthetic User Swarm",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1719,
+    "title": "Autonomous Adaptive Prompt Compiler",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1720,
+    "title": "Adversarially-Robust Model Jailbreak Stress Lab",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1721,
+    "title": "Autonomous Adaptive Prompt Compiler",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1722,
+    "title": "Edge-Native Privacy-Preserving Analytics Hub",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1723,
+    "title": "Hypergraph Agent Reputation Market",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1724,
+    "title": "Neural Protocol Simulator",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1725,
+    "title": "Trust-Minimized Semantic Cache Optimizer",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1726,
+    "title": "Differentiable Protocol Simulator",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1727,
+    "title": "Edge-Native Autonomous Treasury Pilot",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1728,
+    "title": "Hypergraph Cross-Chain Failure Predictor",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1729,
+    "title": "Cognitive Coordination Game Engine",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1730,
+    "title": "Federated RAG Benchmark Forge",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1731,
+    "title": "Trust-Minimized Coordination Game Engine",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1732,
+    "title": "Trust-Minimized Autonomous Deal Desk",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1733,
+    "title": "Meta Latent Incident Commander",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1734,
+    "title": "Cryptoeconomic Autonomous Audit Mesh",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1735,
+    "title": "Realtime Autonomous Audit Mesh",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1736,
+    "title": "Trust-Minimized Synthetic User Swarm",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1737,
+    "title": "Cognitive Agent Reputation Market",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1738,
+    "title": "Federated Autonomous Deal Desk",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1739,
+    "title": "Autonomous Agent Reputation Market",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1740,
+    "title": "Self-Optimizing Security Chaos Platform",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1741,
+    "title": "Self-Optimizing Adaptive Prompt Compiler",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1742,
+    "title": "Differentiable Autonomous Deal Desk",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1743,
+    "title": "Autonomous MEV Defense Orchestrator",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1744,
+    "title": "Adversarially-Robust Agent Reputation Market",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1745,
+    "title": "Autonomous Semantic Cache Optimizer",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1746,
+    "title": "Autonomous Privacy-Preserving Analytics Hub",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1747,
+    "title": "Trust-Minimized Trust Graph Navigator",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1748,
+    "title": "Realtime Adaptive Prompt Compiler",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1749,
+    "title": "Realtime Inference Cost Arbitrage Engine",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1750,
+    "title": "Differentiable Autonomous Audit Mesh",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1751,
+    "title": "Neural Model Jailbreak Stress Lab",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1752,
+    "title": "Neural Cross-Chain Failure Predictor",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1753,
+    "title": "Trust-Minimized Agent Reputation Market",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1754,
+    "title": "Hypergraph Protocol Simulator",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1755,
+    "title": "Neural Autonomous Deal Desk",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1756,
+    "title": "Federated Semantic Cache Optimizer",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1757,
+    "title": "Cryptoeconomic Data Provenance Firewall",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1758,
+    "title": "Cognitive MEV Defense Orchestrator",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1759,
+    "title": "Zero-Knowledge Agent Reputation Market",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1760,
+    "title": "Self-Optimizing Autonomous Deal Desk",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1761,
+    "title": "Autonomous Model Jailbreak Stress Lab",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1762,
+    "title": "Cognitive Onchain Governance Strategist",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1763,
+    "title": "Federated Cross-Chain Failure Predictor",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1764,
+    "title": "Hypergraph Semantic Cache Optimizer",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1765,
+    "title": "Realtime Coordination Game Engine",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1766,
+    "title": "Cognitive Autonomous Treasury Pilot",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1767,
+    "title": "Agentic Synthetic User Swarm",
+    "description": "An expert-level build that hardens production AI systems against adversarial and operational failure modes.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1768,
+    "title": "Autonomous Security Chaos Platform",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1769,
+    "title": "Realtime Synthetic User Swarm",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1770,
+    "title": "Neural Privacy-Preserving Analytics Hub",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1771,
+    "title": "Cryptoeconomic Coordination Game Engine",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1772,
+    "title": "Adversarially-Robust Semantic Cache Optimizer",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1773,
+    "title": "Zero-Knowledge Coordination Game Engine",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1774,
+    "title": "Hypergraph Semantic Cache Optimizer",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1775,
+    "title": "Agentic Onchain Governance Strategist",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1776,
+    "title": "Trust-Minimized Latent Incident Commander",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1777,
+    "title": "Realtime Inference Cost Arbitrage Engine",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1778,
+    "title": "Cryptoeconomic Protocol Simulator",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1779,
+    "title": "Multimodal Protocol Simulator",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1780,
+    "title": "Self-Optimizing Autonomous Deal Desk",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1781,
+    "title": "Meta Privacy-Preserving Analytics Hub",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1782,
+    "title": "Meta Data Provenance Firewall",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1783,
+    "title": "Self-Optimizing Security Chaos Platform",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1784,
+    "title": "Edge-Native Privacy-Preserving Analytics Hub",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1785,
+    "title": "Trust-Minimized Autonomous Treasury Pilot",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1786,
+    "title": "Self-Optimizing Trust Graph Navigator",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1787,
+    "title": "Trust-Minimized RAG Benchmark Forge",
+    "description": "An expert-level build that compresses weeks of architecture analysis into minutes with audit-grade traces.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "ai-agent"
+  },
+  {
+    "id": 1788,
+    "title": "Cognitive Autonomous Audit Mesh",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Kubernetes + gRPC + ClickHouse + pgvector + OpenTelemetry",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1789,
+    "title": "Meta Autonomous Deal Desk",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1790,
+    "title": "Zero-Knowledge Cross-Chain Failure Predictor",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1791,
+    "title": "Self-Optimizing Protocol Simulator",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1792,
+    "title": "Differentiable Onchain Governance Strategist",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1793,
+    "title": "Neural Semantic Cache Optimizer",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Model capabilities and infra economics just crossed the threshold for production autonomy.",
+    "suggested_stack": "ElizaOS + Celo/Base + Farcaster + Telegram + Supabase",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1794,
+    "title": "Differentiable Autonomous Audit Mesh",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "2-4 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1795,
+    "title": "Zero-Knowledge Security Chaos Platform",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Next.js + Rust services + Convex + OpenAI/Anthropic",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1796,
+    "title": "Cognitive Data Provenance Firewall",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Solana + Anchor + indexer + Next.js + wagmi/viem bridge",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "startup"
+  },
+  {
+    "id": 1797,
+    "title": "Federated Inference Cost Arbitrage Engine",
+    "description": "An expert-level build that bridges cryptoeconomic incentives with practical product execution loops.",
+    "why_now": "Teams now need explainable agent behavior to satisfy security and compliance gates.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "hackathon"
+  },
+  {
+    "id": 1798,
+    "title": "Edge-Native Autonomous Deal Desk",
+    "description": "An expert-level build that lets expert teams coordinate autonomous workflows with formal safety constraints.",
+    "why_now": "Latency + cost constraints force new architectures that reward intelligent orchestration.",
+    "suggested_stack": "Cloudflare Workers + Durable Objects + D1 + Vectorize",
+    "difficulty": "advanced",
+    "time_estimate": "8-12 weeks",
+    "track": "b2b"
+  },
+  {
+    "id": 1799,
+    "title": "Meta Semantic Cache Optimizer",
+    "description": "An expert-level build that eliminates million-dollar blind spots in distributed systems decisions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "onchain"
+  },
+  {
+    "id": 1800,
+    "title": "Cognitive Cross-Chain Failure Predictor",
+    "description": "An expert-level build that turns fragmented signals into real-time, executable strategic actions.",
+    "why_now": "Open protocol surfaces make previously impossible composability finally feasible.",
+    "suggested_stack": "Temporal + Postgres + Kafka + Python FastAPI + LangGraph",
+    "difficulty": "advanced",
+    "time_estimate": "4-8 weeks",
+    "track": "ai-agent"
   }
 ]
