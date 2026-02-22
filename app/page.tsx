@@ -11,6 +11,7 @@ export default function HomePage() {
   const [difficulty, setDifficulty] = useState('');
   const [ratings, setRatings] = useState<Record<number, RatingState>>({});
   const [theme, setTheme] = useState<'dark' | 'light'>('dark');
+  const [preset, setPreset] = useState<'all' | 'expert' | 'mindblowing' | 'agenticHackathon'>('all');
 
   const tracks = useMemo(() => Array.from(new Set(allIdeas.map((i) => i.track))), []);
   const levels = useMemo(() => Array.from(new Set(allIdeas.map((i) => i.difficulty))), []);
@@ -22,9 +23,15 @@ export default function HomePage() {
     const q = query.toLowerCase();
     return allIdeas.filter((i) => {
       const hay = `${i.title} ${i.description} ${i.suggested_stack} ${i.track}`.toLowerCase();
-      return (!q || hay.includes(q)) && (!track || i.track === track) && (!difficulty || i.difficulty === difficulty);
+      const base = (!q || hay.includes(q)) && (!track || i.track === track) && (!difficulty || i.difficulty === difficulty);
+      if (!base) return false;
+
+      if (preset === 'expert') return i.difficulty === 'advanced';
+      if (preset === 'mindblowing') return i.difficulty === 'advanced' && /autonomous|agentic|zero-knowledge|cryptoeconomic|adversarial|meta|neural/i.test(i.title + ' ' + i.description);
+      if (preset === 'agenticHackathon') return i.track === 'ai-agent' || i.track === 'hackathon';
+      return true;
     });
-  }, [query, track, difficulty]);
+  }, [query, track, difficulty, preset]);
 
   const featuredAgentic = useMemo(
     () => allIdeas.filter((i) => i.track === 'ai-agent' || i.track === 'hackathon').slice(0, 6),
@@ -127,6 +134,13 @@ export default function HomePage() {
               <option key={l} value={l}>{l}</option>
             ))}
           </select>
+        </div>
+
+        <div className="row" style={{ marginTop: -4 }}>
+          <button onClick={() => { setPreset('all'); setPage(1); }} style={{ opacity: preset === 'all' ? 1 : 0.7 }}>All</button>
+          <button onClick={() => { setPreset('expert'); setPage(1); }} style={{ opacity: preset === 'expert' ? 1 : 0.7 }}>Expert-only</button>
+          <button onClick={() => { setPreset('mindblowing'); setPage(1); }} style={{ opacity: preset === 'mindblowing' ? 1 : 0.7 }}>Mindblowing / Frontier</button>
+          <button onClick={() => { setPreset('agenticHackathon'); setPage(1); }} style={{ opacity: preset === 'agenticHackathon' ? 1 : 0.7 }}>Agentic Hackathon</button>
         </div>
 
         <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center', marginBottom: 2 }}>
