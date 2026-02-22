@@ -1,11 +1,15 @@
 "use client";
 
 import { useEffect, useMemo, useState } from 'react';
+import { useRouter, useSearchParams } from 'next/navigation';
 import { allIdeas } from '@/lib/ideas';
 
 type RatingState = { avg: number; count: number };
 
 export default function HomePage() {
+  const router = useRouter();
+  const searchParams = useSearchParams();
+
   const [query, setQuery] = useState('');
   const [track, setTrack] = useState('');
   const [difficulty, setDifficulty] = useState('');
@@ -18,6 +22,23 @@ export default function HomePage() {
 
   const [page, setPage] = useState(1);
   const pageSize = 50;
+
+  const updateUrl = (next: { query?: string; track?: string; difficulty?: string; preset?: string; page?: number }) => {
+    const params = new URLSearchParams(searchParams.toString());
+    const qv = next.query ?? query;
+    const tv = next.track ?? track;
+    const dv = next.difficulty ?? difficulty;
+    const pv = next.preset ?? preset;
+    const pg = next.page ?? page;
+
+    qv ? params.set('q', qv) : params.delete('q');
+    tv ? params.set('track', tv) : params.delete('track');
+    dv ? params.set('difficulty', dv) : params.delete('difficulty');
+    pv && pv !== 'all' ? params.set('preset', pv) : params.delete('preset');
+    pg > 1 ? params.set('page', String(pg)) : params.delete('page');
+
+    router.replace(`?${params.toString()}`);
+  };
 
   const filtered = useMemo(() => {
     const q = query.toLowerCase();
@@ -42,9 +63,29 @@ export default function HomePage() {
     const saved = (localStorage.getItem('wtb_theme') as 'dark' | 'light' | null) || 'dark';
     setTheme(saved);
     document.documentElement.setAttribute('data-theme', saved);
-  }, []);
+
+    const q = searchParams.get('q') || '';
+    const t = searchParams.get('track') || '';
+    const d = searchParams.get('difficulty') || '';
+    const p = (searchParams.get('preset') as 'all' | 'expert' | 'mindblowing' | 'agenticHackathon' | null) || 'all';
+    const pg = Number(searchParams.get('page') || '1');
+
+    setQuery(q);
+    setTrack(t);
+    setDifficulty(d);
+    setPreset(p);
+    setPage(Number.isFinite(pg) && pg > 0 ? pg : 1);
+  }, [searchParams]);
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
+
+  useEffect(() => {
+    if (page > totalPages) {
+      setPage(totalPages);
+      updateUrl({ page: totalPages });
+    }
+  }, [page, totalPages]);
+
   const paged = useMemo(() => {
     const start = (page - 1) * pageSize;
     return filtered.slice(start, start + pageSize);
@@ -117,18 +158,20 @@ export default function HomePage() {
             placeholder="Search projects by title, stack, track..."
             value={query}
             onChange={(e) => {
-              setQuery(e.target.value);
+              const v = e.target.value;
+              setQuery(v);
               setPage(1);
+              updateUrl({ query: v, page: 1 });
             }}
             style={{ minWidth: 320, flex: 1 }}
           />
-          <select value={track} onChange={(e) => { setTrack(e.target.value); setPage(1); }}>
+          <select value={track} onChange={(e) => { const v = e.target.value; setTrack(v); setPage(1); updateUrl({ track: v, page: 1 }); }}>
             <option value="">All tracks</option>
             {tracks.map((t) => (
               <option key={t} value={t}>{t}</option>
             ))}
           </select>
-          <select value={difficulty} onChange={(e) => { setDifficulty(e.target.value); setPage(1); }}>
+          <select value={difficulty} onChange={(e) => { const v = e.target.value; setDifficulty(v); setPage(1); updateUrl({ difficulty: v, page: 1 }); }}>
             <option value="">All levels</option>
             {levels.map((l) => (
               <option key={l} value={l}>{l}</option>
@@ -137,20 +180,20 @@ export default function HomePage() {
         </div>
 
         <div className="row" style={{ marginTop: -4 }}>
-          <button onClick={() => { setPreset('all'); setPage(1); }} style={{ opacity: preset === 'all' ? 1 : 0.7 }}>All</button>
-          <button onClick={() => { setPreset('expert'); setPage(1); }} style={{ opacity: preset === 'expert' ? 1 : 0.7 }}>Expert-only</button>
-          <button onClick={() => { setPreset('mindblowing'); setPage(1); }} style={{ opacity: preset === 'mindblowing' ? 1 : 0.7 }}>Mindblowing / Frontier</button>
-          <button onClick={() => { setPreset('agenticHackathon'); setPage(1); }} style={{ opacity: preset === 'agenticHackathon' ? 1 : 0.7 }}>Agentic Hackathon</button>
+          <button onClick={() => { setPreset('all'); setPage(1); updateUrl({ preset: 'all', page: 1 }); }} style={{ opacity: preset === 'all' ? 1 : 0.7 }}>All</button>
+          <button onClick={() => { setPreset('expert'); setPage(1); updateUrl({ preset: 'expert', page: 1 }); }} style={{ opacity: preset === 'expert' ? 1 : 0.7 }}>Expert-only</button>
+          <button onClick={() => { setPreset('mindblowing'); setPage(1); updateUrl({ preset: 'mindblowing', page: 1 }); }} style={{ opacity: preset === 'mindblowing' ? 1 : 0.7 }}>Mindblowing / Frontier</button>
+          <button onClick={() => { setPreset('agenticHackathon'); setPage(1); updateUrl({ preset: 'agenticHackathon', page: 1 }); }} style={{ opacity: preset === 'agenticHackathon' ? 1 : 0.7 }}>Agentic Hackathon</button>
         </div>
 
         <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center', marginBottom: 2 }}>
-          <button disabled={page <= 1} onClick={() => setPage((p) => Math.max(1, p - 1))}>← Prev</button>
+          <button disabled={page <= 1} onClick={() => { const np = Math.max(1, page - 1); setPage(np); updateUrl({ page: np }); }}>← Prev</button>
           <span className="muted">Showing {(page - 1) * pageSize + 1}-{Math.min(page * pageSize, filtered.length)} of {filtered.length}</span>
-          <button disabled={page >= totalPages} onClick={() => setPage((p) => Math.min(totalPages, p + 1))}>Next →</button>
+          <button disabled={page >= totalPages} onClick={() => { const np = Math.min(totalPages, page + 1); setPage(np); updateUrl({ page: np }); }}>Next →</button>
         </div>
         <div className="row" style={{ justifyContent: 'center' }}>
           {pageNumbers.map((n) => (
-            <button key={n} onClick={() => setPage(n)} style={{ opacity: n === page ? 1 : 0.75 }}>
+            <button key={n} onClick={() => { setPage(n); updateUrl({ page: n }); }} style={{ opacity: n === page ? 1 : 0.75 }}>
               {n}
             </button>
           ))}
